@@ -75,12 +75,30 @@ function App() {
               "Data normalization, classification, and validation",
               "HIPAA-compliant handling of sensitive data"
             ]
+          },
+          {
+            title: "🍽️ Restaurants & Food Service",
+            items: [
+              "Custom restaurant websites from $299",
+              "Online ordering systems (pickup & delivery)",
+              "Google presence & local SEO setup",
+              "Menu management & mobile-friendly design"
+            ]
+          },
+          {
+            title: "💻 Custom Web & App Development",
+            items: [
+              "Business websites from $299",
+              "Simple web apps & internal tools",
+              "Affordable pricing for local PR businesses",
+              "Fast turnaround — most projects under 2 weeks"
+            ]
           }
         ]
       },
       contact: {
-        title: "Let’s Build a Smarter Operation Together",
-        info: "📩 carlos.perez@dataurea.com | 📞 (787) 555-1234 | 📍 San Juan, Puerto Rico",
+        title: "Let's Build a Smarter Operation Together",
+        info: "📩 carlos.perez@dataurea.com | 📞 (787) 403-1552 | 📍 Puerto Rico",
         form: ["Name", "Email", "Company", "Message", "Submit"]
       },
       cta: {
@@ -133,12 +151,30 @@ function App() {
               "Normalización, clasificación y validación",
               "Manejo seguro de datos confidenciales conforme a HIPAA"
             ]
+          },
+          {
+            title: "🍽️ Restaurantes & Industria de Alimentos",
+            items: [
+              "Páginas web para restaurantes desde $299",
+              "Sistema de pedidos en línea (pickup y delivery)",
+              "Presencia en Google y SEO local",
+              "Diseño de menú digital y optimizado para móvil"
+            ]
+          },
+          {
+            title: "💻 Desarrollo Web & Aplicaciones",
+            items: [
+              "Páginas web para negocios desde $299",
+              "Apps web sencillas y herramientas internas",
+              "Precios accesibles para negocios locales de PR",
+              "Entrega rápida — la mayoría de proyectos en menos de 2 semanas"
+            ]
           }
         ]
       },
       contact: {
         title: "Construyamos una operación más inteligente juntos",
-        info: "📩 carlos.perez@dataurea.com | 📞 (787) 555-1234 | 📍 San Juan, Puerto Rico",
+        info: "📩 carlos.perez@dataurea.com | 📞 (787) 403-1552 | 📍 Puerto Rico",
         form: ["Nombre", "Correo", "Compañía", "Mensaje", "Enviar"]
       },
       cta: {

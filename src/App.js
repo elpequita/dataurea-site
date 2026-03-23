@@ -81,7 +81,7 @@ function App() {
             items: [
               "Custom restaurant websites from $299",
               "Online ordering systems (pickup & delivery)",
-              "Google presence & local SEO setup",
+              "Custom domain & professional email setup",
               "Menu management & mobile-friendly design"
             ]
           },
@@ -157,7 +157,7 @@ function App() {
             items: [
               "Páginas web para restaurantes desde $299",
               "Sistema de pedidos en línea (pickup y delivery)",
-              "Presencia en Google y SEO local",
+              "Dominio propio y correo profesional incluido",
               "Diseño de menú digital y optimizado para móvil"
             ]
           },
